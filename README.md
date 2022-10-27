@@ -33,6 +33,18 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Mock-Up
 
+GET
+
+![Screenshot-GET](https://user-images.githubusercontent.com/107980867/198278772-185c27d5-8f5f-4dfb-9be4-aa18eadf4013.jpg)
+
+POST
+![Screenshot-POST](https://user-images.githubusercontent.com/107980867/198278867-37fa6b01-c54a-422b-8e83-128cda3ce107.jpg)
+
+PUT
+![Screenshot-PUT](https://user-images.githubusercontent.com/107980867/198278883-dadb6ff4-04fd-46e8-97a0-8d4313390c48.jpg)
+
+DELETE
+![Screenshot-DELETE](https://user-images.githubusercontent.com/107980867/198278908-f3981069-b24b-483e-9fac-c39850fa9be7.jpg)
 
 
 ## Link to Walkthrough Video
