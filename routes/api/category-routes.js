@@ -7,9 +7,9 @@ router.get('/', (req, res) => {
   // find all categories
   // be sure to include its associated Products
   Category.findAll({
-    include: {Product},
+    include: [Product],
   })
-  .then((categoryChoice) => req.json(categoryChoice))
+  .then((categories) => req.json(categories))
   .catch ((err) => res.status(500).json(err));
 });
 
